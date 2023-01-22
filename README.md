@@ -19,7 +19,7 @@ Explorer - Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.png" width="100%">
+  <img alt="" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
